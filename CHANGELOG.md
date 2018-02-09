@@ -1,6 +1,7 @@
 ## 1.1.2 (9 February 2018)
 
 * Swapped side of serial output silkscreen for flat mounted pins ([@carlcalderon](https://github.com/carlcalderon))
+* Corrected detached wires due to Fritzing issues ([@carlcalderon](https://github.com/carlcalderon))
 
 ## 1.1.1 (5 February 2018)
 
