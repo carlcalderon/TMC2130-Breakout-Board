@@ -16,6 +16,7 @@ Created for the Facebook HyperCube Community - [HyperCube CoreXY 3D Printer Grou
     [x] Add Open Hardware logo to silkscreen
     [ ] Wiki explaining BOM and wiring
     [ ] JST header connector version
+    [ ] Compressed version (smaller PCB)
 
 ## Contribute
 
